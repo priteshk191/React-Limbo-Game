@@ -15,9 +15,9 @@ Follow these steps to install and set up the React Limbo Game on your local mach
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/React-Limbo-Game.git
-   ```
+```bash
+ git clone https://github.com/yourusername/React-Limbo-Game.git
+```
 
 2. Navigate to the project folder:
 
